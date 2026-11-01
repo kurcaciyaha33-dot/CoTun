@@ -1,0 +1,8 @@
+
+{
+  "railway": {
+    "url": "wss://YOUR-APP.up.railway.app/control",
+    "host": "YOUR-TCP-PROXY-HOST",
+    "port": 12345
+  }
+}
